@@ -362,3 +362,26 @@
 2021-01-21 21:38:38,978 [main] INFO ebanking - Customer name set
 2021-01-21 21:38:39,031 [main] INFO ebanking - gender selected
 2021-01-21 21:38:44,516 [main] INFO ebanking - Test passed
+2021-01-28 12:52:20,104 [main] INFO ebanking - url opened
+2021-01-28 12:52:20,314 [main] INFO ebanking - password entered
+2021-01-28 12:52:20,443 [main] INFO ebanking - UserName entered
+2021-01-28 12:52:21,840 [main] INFO ebanking - login button clicked
+2021-01-28 12:52:21,849 [main] INFO ebanking - Test passed
+2021-01-28 12:52:30,465 [main] INFO ebanking - User name provided
+2021-01-28 12:52:30,530 [main] INFO ebanking - Password provided
+2021-01-28 12:52:31,803 [main] INFO ebanking - Submit clicked
+2021-01-28 12:52:33,865 [main] INFO ebanking - Login passed
+2021-01-28 12:52:37,637 [main] INFO ebanking - User name provided
+2021-01-28 12:52:37,694 [main] INFO ebanking - Password provided
+2021-01-28 12:52:37,900 [main] INFO ebanking - Submit clicked
+2021-01-28 12:52:40,692 [main] INFO ebanking - User name provided
+2021-01-28 12:52:40,755 [main] INFO ebanking - Password provided
+2021-01-28 12:52:40,910 [main] INFO ebanking - Submit clicked
+2021-01-28 12:52:44,174 [main] INFO ebanking - User name provided
+2021-01-28 12:52:44,262 [main] INFO ebanking - Password provided
+2021-01-28 12:52:45,244 [main] INFO ebanking - Submit clicked
+2021-01-28 12:52:47,287 [main] INFO ebanking - Login passed
+2021-01-28 12:53:02,311 [main] INFO ebanking - new customer button clicked
+2021-01-28 12:53:02,459 [main] INFO ebanking - Customer name set
+2021-01-28 12:53:02,567 [main] INFO ebanking - gender selected
+2021-01-28 12:53:07,966 [main] INFO ebanking - Test passed
