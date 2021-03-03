@@ -7,3 +7,4 @@ com\InetBanking\pageObjects\AddCustomerPage.class
 com\InetBanking\pageObjects\LoginPage.class
 com\InetBanking\Utilities\XLUtils.class
 com\InetBanking\TestCases\TC_LoginTest_01.class
+com\InetBanking\TestCases\TC_sample.class

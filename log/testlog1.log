@@ -385,3 +385,35 @@
 2021-01-28 12:53:02,459 [main] INFO ebanking - Customer name set
 2021-01-28 12:53:02,567 [main] INFO ebanking - gender selected
 2021-01-28 12:53:07,966 [main] INFO ebanking - Test passed
+2021-03-02 22:42:03,153 [main] INFO ebanking - url opened
+2021-03-02 22:42:03,495 [main] INFO ebanking - password entered
+2021-03-02 22:42:03,631 [main] INFO ebanking - UserName entered
+2021-03-02 22:42:03,906 [main] INFO ebanking - login button clicked
+2021-03-02 22:42:13,091 [main] INFO ebanking - User name provided
+2021-03-02 22:42:13,217 [main] INFO ebanking - Password provided
+2021-03-02 22:42:13,511 [main] INFO ebanking - Submit clicked
+2021-03-02 22:42:16,592 [main] INFO ebanking - User name provided
+2021-03-02 22:42:16,701 [main] INFO ebanking - Password provided
+2021-03-02 22:42:16,921 [main] INFO ebanking - Submit clicked
+2021-03-02 22:42:20,060 [main] INFO ebanking - User name provided
+2021-03-02 22:42:20,259 [main] INFO ebanking - Password provided
+2021-03-02 22:42:20,503 [main] INFO ebanking - Submit clicked
+2021-03-02 22:42:23,454 [main] INFO ebanking - User name provided
+2021-03-02 22:42:23,546 [main] INFO ebanking - Password provided
+2021-03-02 22:42:23,755 [main] INFO ebanking - Submit clicked
+2021-03-02 22:43:52,033 [main] INFO ebanking - url opened
+2021-03-02 22:43:52,335 [main] INFO ebanking - password entered
+2021-03-02 22:43:52,482 [main] INFO ebanking - UserName entered
+2021-03-02 22:43:52,769 [main] INFO ebanking - login button clicked
+2021-03-02 22:44:01,813 [main] INFO ebanking - User name provided
+2021-03-02 22:44:01,928 [main] INFO ebanking - Password provided
+2021-03-02 22:44:02,197 [main] INFO ebanking - Submit clicked
+2021-03-02 22:44:05,542 [main] INFO ebanking - User name provided
+2021-03-02 22:44:05,652 [main] INFO ebanking - Password provided
+2021-03-02 22:44:05,912 [main] INFO ebanking - Submit clicked
+2021-03-02 22:44:08,995 [main] INFO ebanking - User name provided
+2021-03-02 22:44:09,097 [main] INFO ebanking - Password provided
+2021-03-02 22:44:09,299 [main] INFO ebanking - Submit clicked
+2021-03-02 22:44:12,539 [main] INFO ebanking - User name provided
+2021-03-02 22:44:12,637 [main] INFO ebanking - Password provided
+2021-03-02 22:44:12,876 [main] INFO ebanking - Submit clicked
