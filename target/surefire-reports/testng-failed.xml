@@ -7,27 +7,13 @@
   <test thread-count="5" verbose="0" name="Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.InetBanking.TestCases.TC_LoginTest_01">
-        <methods>
-          <include name="LoginTest"/>
-          <include name="TearDown"/>
-          <include name="SetUp"/>
-        </methods>
-      </class> <!-- com.InetBanking.TestCases.TC_LoginTest_01 -->
-      <class name="com.InetBanking.TestCases.TC_AddNewCustomer_03">
-        <methods>
-          <include name="AddNewCustromer"/>
-          <include name="TearDown"/>
-          <include name="SetUp"/>
-        </methods>
-      </class> <!-- com.InetBanking.TestCases.TC_AddNewCustomer_03 -->
-      <class name="com.InetBanking.TestCases.TC_LoginDDT_02">
+      <class name="com.InetBanking.TestCases.TC_04_ExpediaLinkCount">
         <methods>
           <include name="TearDown"/>
           <include name="SetUp"/>
-          <include name="LoginDDT"/>
+          <include name="LinkCountManually"/>
         </methods>
-      </class> <!-- com.InetBanking.TestCases.TC_LoginDDT_02 -->
+      </class> <!-- com.InetBanking.TestCases.TC_04_ExpediaLinkCount -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [InetBanking] -->

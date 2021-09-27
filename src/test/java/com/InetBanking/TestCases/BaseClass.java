@@ -20,6 +20,8 @@ import org.testng.annotations.Parameters;
 
 import com.InetBanking.Utilities.ReadConfig;
 
+
+
 public class BaseClass {
 
 	ReadConfig readconfig = new ReadConfig();
@@ -55,10 +57,9 @@ public class BaseClass {
 		
 		
 	
-	@AfterClass(enabled=true)
+	@AfterClass(enabled=false)
 	public void TearDown() {
 		driver.quit();
-		
 	}
 	
 	public void captureScreen(WebDriver driver, String tname) throws IOException {

@@ -3,13 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.InetBanking.TestCases.TC_AddNewCustomer_03">
+      <class name="com.InetBanking.TestCases.TC_04_ExpediaLinkCount">
         <methods>
-          <include name="AddNewCustromer"/>
           <include name="TearDown"/>
           <include name="SetUp"/>
+          <include name="LinkCountManually"/>
         </methods>
-      </class> <!-- com.InetBanking.TestCases.TC_AddNewCustomer_03 -->
+      </class> <!-- com.InetBanking.TestCases.TC_04_ExpediaLinkCount -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

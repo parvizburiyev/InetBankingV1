@@ -417,3 +417,440 @@
 2021-03-02 22:44:12,539 [main] INFO ebanking - User name provided
 2021-03-02 22:44:12,637 [main] INFO ebanking - Password provided
 2021-03-02 22:44:12,876 [main] INFO ebanking - Submit clicked
+2021-04-20 15:00:57,140 [main] INFO ebanking - url opened
+2021-04-20 15:00:57,295 [main] INFO ebanking - password entered
+2021-04-20 15:00:57,383 [main] INFO ebanking - UserName entered
+2021-04-20 15:00:57,552 [main] INFO ebanking - login button clicked
+2021-04-20 15:01:01,607 [main] INFO ebanking - User name provided
+2021-04-20 15:01:01,683 [main] INFO ebanking - Password provided
+2021-04-20 15:01:01,850 [main] INFO ebanking - Submit clicked
+2021-04-20 15:01:04,233 [main] INFO ebanking - User name provided
+2021-04-20 15:01:04,323 [main] INFO ebanking - Password provided
+2021-04-20 15:01:04,570 [main] INFO ebanking - Submit clicked
+2021-04-20 15:01:07,106 [main] INFO ebanking - User name provided
+2021-04-20 15:01:07,198 [main] INFO ebanking - Password provided
+2021-04-20 15:01:07,387 [main] INFO ebanking - Submit clicked
+2021-04-20 15:01:09,871 [main] INFO ebanking - User name provided
+2021-04-20 15:01:09,963 [main] INFO ebanking - Password provided
+2021-04-20 15:01:10,145 [main] INFO ebanking - Submit clicked
+2021-04-20 15:06:01,817 [main] INFO ebanking - url opened
+2021-04-20 15:06:01,976 [main] INFO ebanking - password entered
+2021-04-20 15:06:02,114 [main] INFO ebanking - UserName entered
+2021-04-20 15:06:02,303 [main] INFO ebanking - login button clicked
+2021-04-20 15:06:06,999 [main] INFO ebanking - User name provided
+2021-04-20 15:06:07,083 [main] INFO ebanking - Password provided
+2021-04-20 15:06:07,342 [main] INFO ebanking - Submit clicked
+2021-04-20 15:06:09,763 [main] INFO ebanking - User name provided
+2021-04-20 15:06:09,854 [main] INFO ebanking - Password provided
+2021-04-20 15:06:10,037 [main] INFO ebanking - Submit clicked
+2021-04-20 15:06:12,456 [main] INFO ebanking - User name provided
+2021-04-20 15:06:12,547 [main] INFO ebanking - Password provided
+2021-04-20 15:06:12,784 [main] INFO ebanking - Submit clicked
+2021-04-20 15:06:15,223 [main] INFO ebanking - User name provided
+2021-04-20 15:06:15,309 [main] INFO ebanking - Password provided
+2021-04-20 15:06:15,490 [main] INFO ebanking - Submit clicked
+2021-08-10 12:51:23,405 [main] INFO ebanking - Test Passed
+2021-08-11 09:05:14,207 [main] INFO ebanking - Test Passed
+2021-08-11 15:08:01,102 [main] INFO ebanking - August 2021
+2021-08-11 15:10:23,804 [main] INFO ebanking - August 2021
+2021-08-11 15:14:06,039 [main] INFO ebanking - August 2021
+2021-08-11 15:14:56,343 [main] INFO ebanking - August 2021
+2021-08-11 15:16:03,834 [main] INFO ebanking - August 2021
+2021-08-19 09:03:02,668 [main] INFO ebanking - September 2021
+2021-08-19 10:20:37,477 [main] INFO ebanking - September 2021
+2021-08-19 10:21:19,906 [main] INFO ebanking - September 2021
+2021-08-19 10:24:32,405 [main] INFO ebanking - September 2021
+2021-08-19 10:28:49,576 [main] INFO ebanking - September 2021
+2021-08-19 10:33:12,912 [main] INFO ebanking - September 2021
+2021-08-19 10:35:00,845 [main] INFO ebanking - September 2021
+2021-08-19 10:35:14,706 [main] INFO ebanking - Oct 4
+2021-08-19 10:35:14,746 [main] INFO ebanking - Nov 1
+2021-08-19 11:40:26,218 [main] INFO ebanking - September 2021
+2021-08-19 11:40:43,626 [main] INFO ebanking - Oct 4
+2021-08-19 11:40:43,673 [main] INFO ebanking - Nov 1
+2021-08-19 11:46:20,307 [main] INFO ebanking - September 2021
+2021-08-19 11:46:35,161 [main] INFO ebanking - Oct 4
+2021-08-19 11:46:35,209 [main] INFO ebanking - Nov 1
+2021-08-19 11:47:44,580 [main] INFO ebanking - September 2021
+2021-08-19 14:26:13,157 [main] INFO ebanking - September 2021
+2021-08-19 14:29:13,272 [main] INFO ebanking - September 2021
+2021-08-19 14:30:10,194 [main] INFO ebanking - September 2021
+2021-08-19 14:31:12,634 [main] INFO ebanking - 
+2021-08-19 14:31:32,153 [main] INFO ebanking - Oct 4
+2021-08-19 14:31:32,200 [main] INFO ebanking - Nov 1
+2021-08-19 14:34:45,824 [main] INFO ebanking - September 2021
+2021-08-19 14:35:05,993 [main] INFO ebanking - Oct 4
+2021-08-19 14:35:06,035 [main] INFO ebanking - Nov 1
+2021-08-19 14:35:06,179 [main] INFO ebanking - Test passed
+2021-08-19 14:39:27,215 [main] INFO ebanking - September 2021
+2021-08-19 14:39:46,873 [main] INFO ebanking - Oct 4
+2021-08-19 14:39:46,921 [main] INFO ebanking - Nov 1
+2021-08-23 14:15:31,270 [main] INFO ebanking - September 2021
+2021-08-23 14:15:52,691 [main] INFO ebanking - Oct 4
+2021-08-23 14:15:52,729 [main] INFO ebanking - Nov 1
+2021-08-23 14:15:52,798 [main] INFO ebanking - Test passed
+2021-08-24 15:09:48,375 [main] INFO ebanking - Expedia Travel: Vacation Homes, Hotels, Car Rentals, Flights & More
+2021-08-24 15:11:43,084 [main] INFO ebanking - https://www.expedia.com/
+2021-08-24 15:13:50,049 [main] INFO ebanking - https://www.expediagroup.com/home/default.aspx
+2021-08-24 15:14:29,996 [main] INFO ebanking - https://www.expedia.com/
+2021-08-24 15:23:30,783 [main] INFO ebanking - about:blank
+2021-08-24 15:24:15,428 [main] INFO ebanking - about:blank
+2021-08-24 15:27:30,482 [main] INFO ebanking - about:blank
+2021-08-24 15:32:05,765 [main] INFO ebanking - 
+2021-08-24 15:33:08,116 [main] INFO ebanking - Expedia Group
+2021-08-24 15:44:31,248 [main] INFO ebanking - Expedia Group
+2021-08-24 15:44:56,304 [main] INFO ebanking - Expedia Group
+2021-08-24 15:45:29,775 [main] INFO ebanking - Expedia Group
+2021-09-22 10:26:00,777 [main] INFO ebanking - Links size 26
+2021-09-22 10:26:03,085 [main] INFO ebanking - https://www.expediagroup.com/ -  is broken link
+2021-09-22 10:26:05,242 [main] INFO ebanking - https://www.expediagroup.com/ -  is broken link
+2021-09-22 10:26:07,753 [main] INFO ebanking - https://lifeatexpediagroup.com/ -  is working link
+2021-09-22 10:26:10,628 [main] INFO ebanking - https://apps.expediapartnercentral.com/en_US/list?utm_medium=referral&utm_source=wwwexpediacom-en_US&utm_campaign=pwa-header&utm_contentewd=footer-btn&siteId=1&tpid=1&eapid=0&langId=1033 -  is working link
+2021-09-22 10:26:12,709 [main] INFO ebanking - https://www.expediagroup.com/partnerships/ -  is broken link
+2021-09-22 10:26:14,844 [main] INFO ebanking - https://newsroom.expedia.com/ -  is broken link
+2021-09-22 10:26:16,967 [main] INFO ebanking - https://ir.expediagroup.com/investors-overview/default.aspx -  is broken link
+2021-09-22 10:26:19,209 [main] INFO ebanking - https://advertising.expedia.com/ -  is working link
+2021-09-22 10:26:22,400 [main] INFO ebanking - https://www.expedia.com/United-States-Of-America.dx201 -  is working link
+2021-09-22 10:26:25,984 [main] INFO ebanking - https://www.expedia.com/Destinations-In-United-States-Of-America.d201.Hotel-Destinations -  is working link
+2021-09-22 10:26:28,440 [main] INFO ebanking - https://www.expedia.com/Destinations-In-United-States-Of-America.d201.Vacation-Rental-Destinations -  is working link
+2021-09-22 10:26:31,097 [main] INFO ebanking - https://www.expedia.com/United-States-Of-America.d201.Destination-Travel-Guides -  is working link
+2021-09-22 10:26:34,278 [main] INFO ebanking - https://www.expedia.com/Destinations-In-United-States-Of-America.d201.Flight-Destinations -  is working link
+2021-09-22 10:26:37,105 [main] INFO ebanking - https://www.expedia.com/Destinations-In-United-States-Of-America.d201.Car-Rental-Destinations -  is working link
+2021-09-22 10:26:40,216 [main] INFO ebanking - https://www.expedia.com/Accommodations -  is working link
+2021-09-22 10:26:42,673 [main] INFO ebanking - https://www.expedia.com/lp/lg-privacypolicy -  is working link
+2021-09-22 10:26:45,022 [main] INFO ebanking - https://www.expedia.com/lp/lg-legal -  is working link
+2021-09-22 10:26:47,391 [main] INFO ebanking - https://www.expedia.com/loyaltyrewards/pages/info-rewards/expediarewards/terms.htm -  is working link
+2021-09-22 10:26:49,886 [main] INFO ebanking - https://www.expedia.com/p/info-other/web-accessibility-policy -  is working link
+2021-09-22 10:26:52,606 [main] INFO ebanking - https://www.expedia.com/dnsmpi -  is working link
+2021-09-22 10:26:57,393 [main] INFO ebanking - https://www.expedia.com/service/ -  is working link
+2021-09-22 10:27:01,925 [main] INFO ebanking - https://www.expedia.com/service/#/articles/399/34/12326 -  is working link
+2021-09-22 10:27:06,603 [main] INFO ebanking - https://www.expedia.com/service/#/articles/397/34/12324 -  is working link
+2021-09-22 10:27:11,448 [main] INFO ebanking - https://www.expedia.com/service/#/articles/396/53/15253 -  is working link
+2021-09-22 10:27:15,851 [main] INFO ebanking - https://www.expedia.com/service/#/articles/396/53/12385 -  is working link
+2021-09-22 10:27:20,153 [main] INFO ebanking - https://www.expedia.com/service/#/articles/396/52/12386 -  is working link
+2021-09-22 10:27:20,156 [main] INFO ebanking - Test Failed
+2021-09-22 10:32:51,784 [main] INFO ebanking - Links size 26
+2021-09-22 10:32:58,094 [main] INFO ebanking - https://www.expediagroup.com/ -  is broken link
+2021-09-22 10:33:04,203 [main] INFO ebanking - https://www.expediagroup.com/ -  is broken link
+2021-09-22 10:33:10,577 [main] INFO ebanking - https://lifeatexpediagroup.com/ -  is working link
+2021-09-22 10:33:17,172 [main] INFO ebanking - https://apps.expediapartnercentral.com/en_US/list?utm_medium=referral&utm_source=wwwexpediacom-en_US&utm_campaign=pwa-header&utm_contentewd=footer-btn&siteId=1&tpid=1&eapid=0&langId=1033 -  is working link
+2021-09-22 10:33:23,259 [main] INFO ebanking - https://www.expediagroup.com/partnerships/ -  is broken link
+2021-09-22 10:33:29,373 [main] INFO ebanking - https://newsroom.expedia.com/ -  is broken link
+2021-09-22 10:33:35,489 [main] INFO ebanking - https://ir.expediagroup.com/investors-overview/default.aspx -  is broken link
+2021-09-22 10:33:41,700 [main] INFO ebanking - https://advertising.expedia.com/ -  is working link
+2021-09-22 10:33:48,966 [main] INFO ebanking - https://www.expedia.com/United-States-Of-America.dx201 -  is working link
+2021-09-22 10:33:56,203 [main] INFO ebanking - https://www.expedia.com/Destinations-In-United-States-Of-America.d201.Hotel-Destinations -  is working link
+2021-09-22 10:34:02,786 [main] INFO ebanking - https://www.expedia.com/Destinations-In-United-States-Of-America.d201.Vacation-Rental-Destinations -  is working link
+2021-09-22 10:34:09,442 [main] INFO ebanking - https://www.expedia.com/United-States-Of-America.d201.Destination-Travel-Guides -  is working link
+2021-09-22 10:34:16,056 [main] INFO ebanking - https://www.expedia.com/Destinations-In-United-States-Of-America.d201.Flight-Destinations -  is working link
+2021-09-22 10:34:23,238 [main] INFO ebanking - https://www.expedia.com/Destinations-In-United-States-Of-America.d201.Car-Rental-Destinations -  is working link
+2021-09-22 10:34:30,026 [main] INFO ebanking - https://www.expedia.com/Accommodations -  is working link
+2021-09-22 10:34:36,660 [main] INFO ebanking - https://www.expedia.com/lp/lg-privacypolicy -  is working link
+2021-09-22 10:34:43,149 [main] INFO ebanking - https://www.expedia.com/lp/lg-legal -  is working link
+2021-09-22 10:34:49,584 [main] INFO ebanking - https://www.expedia.com/loyaltyrewards/pages/info-rewards/expediarewards/terms.htm -  is working link
+2021-09-22 10:34:56,031 [main] INFO ebanking - https://www.expedia.com/p/info-other/web-accessibility-policy -  is working link
+2021-09-22 10:35:02,799 [main] INFO ebanking - https://www.expedia.com/dnsmpi -  is working link
+2021-09-22 10:35:11,291 [main] INFO ebanking - https://www.expedia.com/service/ -  is working link
+2021-09-22 10:35:19,792 [main] INFO ebanking - https://www.expedia.com/service/#/articles/399/34/12326 -  is working link
+2021-09-22 10:35:28,085 [main] INFO ebanking - https://www.expedia.com/service/#/articles/397/34/12324 -  is working link
+2021-09-22 10:35:36,586 [main] INFO ebanking - https://www.expedia.com/service/#/articles/396/53/15253 -  is working link
+2021-09-22 10:35:44,909 [main] INFO ebanking - https://www.expedia.com/service/#/articles/396/53/12385 -  is working link
+2021-09-22 10:35:53,414 [main] INFO ebanking - https://www.expedia.com/service/#/articles/396/52/12386 -  is working link
+2021-09-22 10:35:53,417 [main] INFO ebanking - Test Failed
+2021-09-22 11:19:21,212 [main] INFO ebanking - Links size 26
+2021-09-22 11:19:27,508 [main] INFO ebanking - 403
+2021-09-22 11:19:27,509 [main] INFO ebanking - https://www.expediagroup.com/ -  is broken link
+2021-09-22 11:19:33,620 [main] INFO ebanking - 403
+2021-09-22 11:19:33,621 [main] INFO ebanking - https://www.expediagroup.com/ -  is broken link
+2021-09-22 11:19:39,992 [main] INFO ebanking - 200
+2021-09-22 11:19:39,992 [main] INFO ebanking - https://lifeatexpediagroup.com/ -  is working link
+2021-09-22 11:19:46,681 [main] INFO ebanking - 200
+2021-09-22 11:19:46,681 [main] INFO ebanking - https://apps.expediapartnercentral.com/en_US/list?utm_medium=referral&utm_source=wwwexpediacom-en_US&utm_campaign=pwa-header&utm_contentewd=footer-btn&siteId=1&tpid=1&eapid=0&langId=1033 -  is working link
+2021-09-22 11:19:52,766 [main] INFO ebanking - 403
+2021-09-22 11:19:52,766 [main] INFO ebanking - https://www.expediagroup.com/partnerships/ -  is broken link
+2021-09-22 11:19:58,914 [main] INFO ebanking - 403
+2021-09-22 11:19:58,915 [main] INFO ebanking - https://newsroom.expedia.com/ -  is broken link
+2021-09-22 11:20:05,030 [main] INFO ebanking - 403
+2021-09-22 11:20:05,031 [main] INFO ebanking - https://ir.expediagroup.com/investors-overview/default.aspx -  is broken link
+2021-09-22 11:20:11,261 [main] INFO ebanking - 200
+2021-09-22 11:20:11,262 [main] INFO ebanking - https://advertising.expedia.com/ -  is working link
+2021-09-22 11:20:18,207 [main] INFO ebanking - 200
+2021-09-22 11:20:18,207 [main] INFO ebanking - https://www.expedia.com/United-States-Of-America.dx201 -  is working link
+2021-09-22 11:20:26,454 [main] INFO ebanking - 200
+2021-09-22 11:20:26,454 [main] INFO ebanking - https://www.expedia.com/Destinations-In-United-States-Of-America.d201.Hotel-Destinations -  is working link
+2021-09-22 11:20:32,889 [main] INFO ebanking - 200
+2021-09-22 11:20:32,890 [main] INFO ebanking - https://www.expedia.com/Destinations-In-United-States-Of-America.d201.Vacation-Rental-Destinations -  is working link
+2021-09-22 11:20:39,454 [main] INFO ebanking - 200
+2021-09-22 11:20:39,454 [main] INFO ebanking - https://www.expedia.com/United-States-Of-America.d201.Destination-Travel-Guides -  is working link
+2021-09-22 11:20:47,192 [main] INFO ebanking - 200
+2021-09-22 11:20:47,192 [main] INFO ebanking - https://www.expedia.com/Destinations-In-United-States-Of-America.d201.Flight-Destinations -  is working link
+2021-09-22 11:20:54,482 [main] INFO ebanking - 200
+2021-09-22 11:20:54,482 [main] INFO ebanking - https://www.expedia.com/Destinations-In-United-States-Of-America.d201.Car-Rental-Destinations -  is working link
+2021-09-22 11:21:01,121 [main] INFO ebanking - 200
+2021-09-22 11:21:01,122 [main] INFO ebanking - https://www.expedia.com/Accommodations -  is working link
+2021-09-22 11:21:07,675 [main] INFO ebanking - 200
+2021-09-22 11:21:07,675 [main] INFO ebanking - https://www.expedia.com/lp/lg-privacypolicy -  is working link
+2021-09-22 11:21:13,996 [main] INFO ebanking - 200
+2021-09-22 11:21:13,996 [main] INFO ebanking - https://www.expedia.com/lp/lg-legal -  is working link
+2021-09-22 11:21:20,475 [main] INFO ebanking - 200
+2021-09-22 11:21:20,475 [main] INFO ebanking - https://www.expedia.com/loyaltyrewards/pages/info-rewards/expediarewards/terms.htm -  is working link
+2021-09-22 11:21:26,927 [main] INFO ebanking - 200
+2021-09-22 11:21:26,927 [main] INFO ebanking - https://www.expedia.com/p/info-other/web-accessibility-policy -  is working link
+2021-09-22 11:21:33,583 [main] INFO ebanking - 200
+2021-09-22 11:21:33,583 [main] INFO ebanking - https://www.expedia.com/dnsmpi -  is working link
+2021-09-22 11:21:42,044 [main] INFO ebanking - 200
+2021-09-22 11:21:42,045 [main] INFO ebanking - https://www.expedia.com/service/ -  is working link
+2021-09-22 11:21:51,093 [main] INFO ebanking - 200
+2021-09-22 11:21:51,093 [main] INFO ebanking - https://www.expedia.com/service/#/articles/399/34/12326 -  is working link
+2021-09-22 11:26:04,915 [main] INFO ebanking - Links size 26
+2021-09-22 11:26:10,491 [main] INFO ebanking - Expedia Travel: Vacation Homes, Hotels, Car Rentals, Flights & More
+2021-09-22 11:27:30,799 [main] INFO ebanking - Links size 26
+2021-09-22 11:28:15,484 [main] INFO ebanking - Links size 26
+2021-09-22 11:28:18,388 [main] INFO ebanking - Expedia Group
+2021-09-22 11:29:23,428 [main] INFO ebanking - Links size 26
+2021-09-22 11:29:27,105 [main] INFO ebanking - Expedia Group | Careers
+2021-09-22 11:47:07,363 [main] INFO ebanking - Links size 26
+2021-09-22 11:47:09,815 [main] INFO ebanking - Expedia Travel: Vacation Homes, Hotels, Car Rentals, Flights & More
+2021-09-22 11:49:52,825 [main] INFO ebanking - Links size 26
+2021-09-22 11:49:55,318 [main] INFO ebanking - Expedia Travel: Vacation Homes, Hotels, Car Rentals, Flights & More
+2021-09-22 11:59:40,724 [main] INFO ebanking - Links size 26
+2021-09-22 12:01:05,375 [main] INFO ebanking - Links size 26
+2021-09-22 12:01:06,150 [main] INFO ebanking - Expedia Group
+2021-09-22 12:02:11,538 [main] INFO ebanking - Links size 26
+2021-09-22 12:02:12,293 [main] INFO ebanking - Expedia Group
+2021-09-22 12:15:20,158 [main] INFO ebanking - Links size 26
+2021-09-22 12:15:21,277 [main] INFO ebanking - Expedia Group
+2021-09-22 12:51:05,632 [main] INFO ebanking - Links size 26
+2021-09-22 12:51:06,421 [main] INFO ebanking - Expedia Group
+2021-09-22 12:51:08,969 [main] INFO ebanking - Expedia Group
+2021-09-22 12:51:14,087 [main] INFO ebanking - Expedia Group | Careers
+2021-09-22 12:51:18,169 [main] INFO ebanking - Property Info - Join Expedia
+2021-09-22 12:51:20,856 [main] INFO ebanking - Expedia Group
+2021-09-22 12:51:24,969 [main] INFO ebanking - Newsroom Home | Expedia Brand Newsroom
+2021-09-22 12:51:28,501 [main] INFO ebanking - Expedia Group
+2021-09-22 12:51:32,055 [main] INFO ebanking - Travel Advertising & Marketing Services | Expedia Group
+2021-09-22 12:51:37,407 [main] INFO ebanking - Visit United States of America: 2021 Travel Guide for United States of America, North America | Expedia
+2021-09-22 12:51:43,249 [main] INFO ebanking - Find & Book the Best Hotels in United States of America for 2021 | Expedia
+2021-09-22 12:51:48,268 [main] INFO ebanking - United States of America Vacation Rentals from $69: Search Short-Term Rentals | Expedia.com
+2021-09-22 12:51:53,671 [main] INFO ebanking - United States of America Vacation Packages | Travel United States of America 2021 | Expedia
+2021-09-22 12:52:01,352 [main] INFO ebanking - Cheap Flights to United States of America from $21 only | 2021/2022 | Expedia
+2021-09-22 12:52:05,934 [main] INFO ebanking - Car Rental United States of America: Cheap United States of America Car Rental Deals | Expedia
+2021-09-22 12:52:11,374 [main] INFO ebanking - All Accommodation Types | Expedia
+2021-09-22 12:52:17,031 [main] INFO ebanking - Privacy Policy | Expedia.com
+2021-09-22 12:52:21,876 [main] INFO ebanking - Website Terms | Expedia.com
+2021-09-22 12:52:28,137 [main] INFO ebanking - Expedia Rewards Terms and Conditions
+2021-09-22 12:52:34,169 [main] INFO ebanking - Web Accessibility Policy | Expedia.com
+2021-09-22 12:52:39,796 [main] INFO ebanking - Do Not Sell My Personal Information
+2021-09-22 12:52:45,449 [main] INFO ebanking - Customer Service Portal
+2021-09-22 12:52:51,358 [main] INFO ebanking - Customer Service Portal
+2021-09-22 12:52:57,022 [main] INFO ebanking - Customer Service Portal
+2021-09-22 12:53:02,656 [main] INFO ebanking - Customer Service Portal
+2021-09-22 12:53:07,923 [main] INFO ebanking - Customer Service Portal
+2021-09-22 12:53:13,368 [main] INFO ebanking - Customer Service Portal
+2021-09-22 12:53:15,419 [main] INFO ebanking - 26
+2021-09-22 12:53:15,423 [main] INFO ebanking - Test passed
+2021-09-27 11:49:36,973 [main] INFO ebanking - Links size 26
+2021-09-27 11:49:37,715 [main] INFO ebanking - Expedia Group
+2021-09-27 11:49:40,512 [main] INFO ebanking - Expedia Group
+2021-09-27 11:49:44,596 [main] INFO ebanking - Expedia Group | Careers
+2021-09-27 11:49:50,626 [main] INFO ebanking - Property Info - Join Expedia
+2021-09-27 11:49:53,326 [main] INFO ebanking - Expedia Group
+2021-09-27 11:49:59,252 [main] INFO ebanking - Newsroom Home | Expedia Brand Newsroom
+2021-09-27 11:50:02,578 [main] INFO ebanking - Expedia Group
+2021-09-27 11:50:06,313 [main] INFO ebanking - Travel Advertising & Marketing Services | Expedia Group
+2021-09-27 11:50:09,287 [main] INFO ebanking - Bot or Not?
+2021-09-27 11:50:12,622 [main] INFO ebanking - Bot or Not?
+2021-09-27 11:50:15,538 [main] INFO ebanking - Bot or Not?
+2021-09-27 11:50:18,807 [main] INFO ebanking - Bot or Not?
+2021-09-27 11:50:21,611 [main] INFO ebanking - Bot or Not?
+2021-09-27 11:50:24,446 [main] INFO ebanking - Bot or Not?
+2021-09-27 11:50:27,319 [main] INFO ebanking - Bot or Not?
+2021-09-27 11:50:30,242 [main] INFO ebanking - Bot or Not?
+2021-09-27 11:50:33,219 [main] INFO ebanking - Bot or Not?
+2021-09-27 11:50:36,345 [main] INFO ebanking - Bot or Not?
+2021-09-27 11:50:39,191 [main] INFO ebanking - Bot or Not?
+2021-09-27 11:50:42,005 [main] INFO ebanking - Bot or Not?
+2021-09-27 11:50:44,922 [main] INFO ebanking - Bot or Not?
+2021-09-27 11:50:47,775 [main] INFO ebanking - Bot or Not?
+2021-09-27 11:50:50,688 [main] INFO ebanking - Bot or Not?
+2021-09-27 11:50:53,576 [main] INFO ebanking - Bot or Not?
+2021-09-27 11:50:56,414 [main] INFO ebanking - Bot or Not?
+2021-09-27 11:50:59,212 [main] INFO ebanking - Bot or Not?
+2021-09-27 11:51:01,472 [main] INFO ebanking - 26
+2021-09-27 11:51:01,476 [main] INFO ebanking - Test passed
+2021-09-27 14:03:05,824 [main] INFO ebanking - Links size 26
+2021-09-27 14:03:06,571 [main] INFO ebanking - Expedia Group
+2021-09-27 14:03:09,388 [main] INFO ebanking - Expedia Group
+2021-09-27 14:03:13,745 [main] INFO ebanking - Expedia Group | Careers
+2021-09-27 14:03:18,176 [main] INFO ebanking - Property Info - Join Expedia
+2021-09-27 14:03:21,125 [main] INFO ebanking - Expedia Group
+2021-09-27 14:03:25,190 [main] INFO ebanking - Newsroom Home | Expedia Brand Newsroom
+2021-09-27 14:03:28,402 [main] INFO ebanking - Expedia Group
+2021-09-27 14:03:32,125 [main] INFO ebanking - Travel Advertising & Marketing Services | Expedia Group
+2021-09-27 14:03:35,223 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:03:38,043 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:03:40,950 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:03:43,778 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:03:46,674 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:03:49,533 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:03:52,530 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:03:55,659 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:03:58,646 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:04:01,717 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:04:04,693 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:04:07,538 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:04:10,549 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:04:13,863 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:04:16,741 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:04:19,648 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:04:22,611 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:04:25,661 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:04:27,918 [main] INFO ebanking - 26
+2021-09-27 14:04:27,922 [main] INFO ebanking - Test passed
+2021-09-27 14:35:31,243 [main] INFO ebanking - Links size 26
+2021-09-27 14:35:31,993 [main] INFO ebanking - Expedia Group
+2021-09-27 14:35:34,488 [main] INFO ebanking - Expedia Group
+2021-09-27 14:35:38,117 [main] INFO ebanking - Expedia Group | Careers
+2021-09-27 14:35:42,562 [main] INFO ebanking - Property Info - Join Expedia
+2021-09-27 14:35:45,287 [main] INFO ebanking - Expedia Group
+2021-09-27 14:35:49,229 [main] INFO ebanking - Newsroom Home | Expedia Brand Newsroom
+2021-09-27 14:35:52,460 [main] INFO ebanking - Expedia Group
+2021-09-27 14:35:56,157 [main] INFO ebanking - Travel Advertising & Marketing Services | Expedia Group
+2021-09-27 14:35:59,107 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:36:02,019 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:36:04,963 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:36:07,922 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:36:10,821 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:36:13,655 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:36:16,466 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:36:19,269 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:36:22,131 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:36:24,957 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:36:27,890 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:36:30,799 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:36:33,594 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:36:36,469 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:36:39,288 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:36:42,147 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:36:44,962 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:36:47,904 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:36:50,169 [main] INFO ebanking - 26
+2021-09-27 14:36:50,173 [main] INFO ebanking - Test passed
+2021-09-27 14:48:00,887 [main] INFO ebanking - October 2021
+2021-09-27 14:48:30,226 [main] INFO ebanking - Links size 26
+2021-09-27 14:48:31,235 [main] INFO ebanking - Expedia Group
+2021-09-27 14:48:33,985 [main] INFO ebanking - Expedia Group
+2021-09-27 14:48:37,658 [main] INFO ebanking - Expedia Group | Careers
+2021-09-27 14:48:42,089 [main] INFO ebanking - Property Info - Join Expedia
+2021-09-27 14:48:45,024 [main] INFO ebanking - Expedia Group
+2021-09-27 14:48:49,065 [main] INFO ebanking - Newsroom Home | Expedia Brand Newsroom
+2021-09-27 14:48:52,332 [main] INFO ebanking - Expedia Group
+2021-09-27 14:48:56,031 [main] INFO ebanking - Travel Advertising & Marketing Services | Expedia Group
+2021-09-27 14:48:59,063 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:49:02,026 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:49:04,907 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:49:07,943 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:49:10,930 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:49:13,743 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:49:16,737 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:49:19,576 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:49:22,466 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:49:25,471 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:49:28,698 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:49:31,529 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:49:34,687 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:49:37,584 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:49:40,541 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:49:43,393 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:49:46,249 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:49:49,046 [main] INFO ebanking - Bot or Not?
+2021-09-27 14:49:51,331 [main] INFO ebanking - 26
+2021-09-27 14:49:51,334 [main] INFO ebanking - Test passed
+2021-09-27 15:00:00,516 [main] INFO ebanking - October 2021
+2021-09-27 15:00:33,653 [main] INFO ebanking - Links size 26
+2021-09-27 15:00:34,926 [main] INFO ebanking - Expedia Group
+2021-09-27 15:00:38,046 [main] INFO ebanking - Expedia Group
+2021-09-27 15:00:42,399 [main] INFO ebanking - Expedia Group | Careers
+2021-09-27 15:01:02,344 [main] INFO ebanking - Property Info - Join Expedia
+2021-09-27 15:01:05,595 [main] INFO ebanking - Expedia Group
+2021-09-27 15:01:10,166 [main] INFO ebanking - Newsroom Home | Expedia Brand Newsroom
+2021-09-27 15:01:13,869 [main] INFO ebanking - Expedia Group
+2021-09-27 15:01:18,298 [main] INFO ebanking - Travel Advertising & Marketing Services | Expedia Group
+2021-09-27 15:01:21,794 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:01:25,188 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:01:28,476 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:01:31,648 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:01:34,791 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:01:37,924 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:01:41,056 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:01:44,237 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:01:47,376 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:01:50,647 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:01:53,685 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:01:56,864 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:02:00,089 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:02:03,264 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:02:06,458 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:02:09,488 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:02:12,791 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:02:16,100 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:02:18,411 [main] INFO ebanking - 26
+2021-09-27 15:02:18,416 [main] INFO ebanking - Test passed
+2021-09-27 15:43:31,449 [main] INFO ebanking - Links size 26
+2021-09-27 15:43:32,764 [main] INFO ebanking - Expedia Group
+2021-09-27 15:43:35,331 [main] INFO ebanking - Expedia Group
+2021-09-27 15:43:38,861 [main] INFO ebanking - Expedia Group | Careers
+2021-09-27 15:43:42,979 [main] INFO ebanking - Property Info - Join Expedia
+2021-09-27 15:43:45,733 [main] INFO ebanking - Expedia Group
+2021-09-27 15:43:49,296 [main] INFO ebanking - Newsroom Home | Expedia Brand Newsroom
+2021-09-27 15:43:52,324 [main] INFO ebanking - Expedia Group
+2021-09-27 15:43:55,717 [main] INFO ebanking - Travel Advertising & Marketing Services | Expedia Group
+2021-09-27 15:43:58,623 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:44:01,678 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:44:04,744 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:44:07,690 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:44:11,725 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:44:15,586 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:44:18,317 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:44:21,092 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:44:23,931 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:44:27,013 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:44:29,727 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:44:32,766 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:44:35,612 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:44:38,593 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:44:42,273 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:44:45,798 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:44:50,787 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:44:54,366 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:44:56,617 [main] INFO ebanking - 26
+2021-09-27 15:44:56,618 [main] INFO ebanking - Test passed
+2021-09-27 15:56:53,108 [main] INFO ebanking - Links size 26
+2021-09-27 15:56:53,944 [main] INFO ebanking - Expedia Group
+2021-09-27 15:56:56,557 [main] INFO ebanking - Expedia Group
+2021-09-27 15:57:00,447 [main] INFO ebanking - Expedia Group | Careers
+2021-09-27 15:57:04,577 [main] INFO ebanking - Property Info - Join Expedia
+2021-09-27 15:57:07,087 [main] INFO ebanking - Expedia Group
+2021-09-27 15:57:10,529 [main] INFO ebanking - Newsroom Home | Expedia Brand Newsroom
+2021-09-27 15:57:13,548 [main] INFO ebanking - Expedia Group
+2021-09-27 15:57:17,728 [main] INFO ebanking - Travel Advertising & Marketing Services | Expedia Group
+2021-09-27 15:57:20,568 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:57:23,272 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:57:26,022 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:57:28,729 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:57:31,391 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:57:34,098 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:57:36,844 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:57:39,559 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:57:42,281 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:57:45,061 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:57:47,709 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:57:50,362 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:57:53,182 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:57:55,978 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:57:58,681 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:58:01,339 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:58:03,999 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:58:06,714 [main] INFO ebanking - Bot or Not?
+2021-09-27 15:58:08,954 [main] INFO ebanking - 26
+2021-09-27 15:58:08,956 [main] INFO ebanking - Test passed
