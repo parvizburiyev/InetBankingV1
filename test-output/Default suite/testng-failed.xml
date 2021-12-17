@@ -3,13 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.InetBanking.TestCases.TC_04_ExpediaLinkCount">
+      <class name="com.Teladoc.TestCases.TC_01_AddValidateUser">
         <methods>
+          <include name="DeleteRecord"/>
           <include name="TearDown"/>
           <include name="SetUp"/>
-          <include name="LinkCountManually"/>
         </methods>
-      </class> <!-- com.InetBanking.TestCases.TC_04_ExpediaLinkCount -->
+      </class> <!-- com.Teladoc.TestCases.TC_01_AddValidateUser -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -3,7 +3,7 @@
 <suite name="InetBanking">
 
 <listeners>
-<listener class-name="com.InetBanking.Utilities.Reporting"></listener>
+<listener class-name="com.Teladoc.Utilities.Reporting"></listener>
 </listeners>
 
   <test thread-count="5" name="Test">
@@ -11,10 +11,14 @@
     <classes>
 <!--             <class name="com.InetBanking.TestCases.TC_01_ExpediaTest"/> -->
  
-    <class name="com.InetBanking.TestCases.TC_04_ExpediaLinkCount"/>
-           
-      
+      <class name="com.Teladoc.TestCases.TC_01_AddValidateUser"/> 
+	<!--       <class name="com.Teladoc.TestCases.TC_02_DeleteRecord"/> -->
+
       
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
+
+
+
+

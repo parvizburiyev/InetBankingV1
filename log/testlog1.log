@@ -854,3 +854,340 @@
 2021-09-27 15:58:06,714 [main] INFO ebanking - Bot or Not?
 2021-09-27 15:58:08,954 [main] INFO ebanking - 26
 2021-09-27 15:58:08,956 [main] INFO ebanking - Test passed
+2021-09-28 10:52:11,057 [main] INFO ebanking - Links size 26
+2021-09-28 10:52:12,054 [main] INFO ebanking - Expedia Group
+2021-09-28 10:52:14,739 [main] INFO ebanking - Expedia Group
+2021-09-28 10:52:18,271 [main] INFO ebanking - Expedia Group | Careers
+2021-09-28 10:52:22,308 [main] INFO ebanking - Property Info - Join Expedia
+2021-09-28 10:52:25,060 [main] INFO ebanking - Expedia Group
+2021-09-28 10:52:29,028 [main] INFO ebanking - Newsroom Home | Expedia Brand Newsroom
+2021-09-28 10:52:32,063 [main] INFO ebanking - Expedia Group
+2021-09-28 10:52:35,487 [main] INFO ebanking - Travel Advertising & Marketing Services | Expedia Group
+2021-09-28 10:52:38,364 [main] INFO ebanking - Bot or Not?
+2021-09-28 10:52:41,259 [main] INFO ebanking - Bot or Not?
+2021-09-28 10:52:44,098 [main] INFO ebanking - Bot or Not?
+2021-09-28 10:52:46,890 [main] INFO ebanking - Bot or Not?
+2021-09-28 10:52:49,637 [main] INFO ebanking - Bot or Not?
+2021-09-28 10:52:52,345 [main] INFO ebanking - Bot or Not?
+2021-09-28 10:52:55,420 [main] INFO ebanking - Bot or Not?
+2021-09-28 10:52:58,321 [main] INFO ebanking - Bot or Not?
+2021-09-28 10:53:01,194 [main] INFO ebanking - Bot or Not?
+2021-09-28 10:53:03,933 [main] INFO ebanking - Bot or Not?
+2021-09-28 10:53:06,657 [main] INFO ebanking - Bot or Not?
+2021-09-28 10:53:09,372 [main] INFO ebanking - Bot or Not?
+2021-09-28 10:53:12,120 [main] INFO ebanking - Bot or Not?
+2021-09-28 10:53:15,089 [main] INFO ebanking - Bot or Not?
+2021-09-28 10:53:17,855 [main] INFO ebanking - Bot or Not?
+2021-09-28 10:53:20,852 [main] INFO ebanking - Bot or Not?
+2021-09-28 10:53:23,580 [main] INFO ebanking - Bot or Not?
+2021-09-28 10:53:26,373 [main] INFO ebanking - Bot or Not?
+2021-09-28 10:53:28,610 [main] INFO ebanking - 26
+2021-09-28 10:53:28,612 [main] INFO ebanking - Test passed
+2021-10-05 21:04:50,318 [main] INFO ebanking - Test Passed
+2021-10-05 21:05:59,717 [main] INFO ebanking - Test Passed
+2021-12-15 23:31:10,696 [main] INFO ebanking - [Paul, Burk, PaulBurk@gmail.com, , , Admin, wwwwww@dwwwww.com]
+2021-12-15 23:32:15,160 [main] INFO ebanking - [Paul, Burk, PaulBurk@gmail.com, , , Admin, wwwwww@dwwwww.com]
+2021-12-15 23:32:15,160 [main] INFO ebanking - [Paul, Burk, PaulBurk@gmail.com, MYname,  , 2, wwwwww@dwwwww.com, 3473479999]
+2021-12-15 23:33:54,272 [main] INFO ebanking - [Paul, Burk, PaulBurk@gmail.com, , , Admin, wwwwww@dwwwww.com, 3473479999]
+2021-12-15 23:33:54,280 [main] INFO ebanking - [Paul, Burk, PaulBurk@gmail.com, MYname,  , 2, wwwwww@dwwwww.com, 3473479999]
+2021-12-15 23:34:48,089 [main] INFO ebanking - [Paul, Burk, PaulBurk@gmail.com, , , Admin, wwwwww@dwwwww.com, 3473479999]
+2021-12-15 23:34:48,089 [main] INFO ebanking - [Paul, Burk, PaulBurk@gmail.com, MYname,  , 2, wwwwww@dwwwww.com, 3473479999]
+2021-12-15 23:36:55,726 [main] INFO ebanking - [Paul, Burk, PaulBurk@gmail.com, , , Admin, wwwwww@dwwwww.com, 3473479999]
+2021-12-15 23:36:55,742 [main] INFO ebanking - [Paul, Burk, PaulBurk@gmail.com, MYname,  , Admin, wwwwww@dwwwww.com, 3473479999]
+2021-12-16 00:06:37,953 [main] INFO ebanking - Paul record exist in table
+2021-12-16 00:06:37,969 [main] INFO ebanking - Burk record exist in table
+2021-12-16 00:06:37,969 [main] INFO ebanking - PaulBurk@gmail.com record exist in table
+2021-12-16 00:06:37,969 [main] INFO ebanking -  record do not exist in table
+2021-12-16 00:06:37,969 [main] INFO ebanking -  record do not exist in table
+2021-12-16 00:06:37,969 [main] INFO ebanking - Admin record exist in table
+2021-12-16 00:06:37,969 [main] INFO ebanking - wwwwww@dwwwww.com record exist in table
+2021-12-16 00:06:37,969 [main] INFO ebanking - 3473479999 record exist in table
+2021-12-16 00:08:25,068 [main] INFO ebanking - [Paul, Burk, PaulBurk@gmail.com, , , Admin, wwwwww@dwwwww.com, 3473479999]
+2021-12-16 00:08:25,212 [main] INFO ebanking - Paul record exist in table
+2021-12-16 00:08:25,212 [main] INFO ebanking - Burk record exist in table
+2021-12-16 00:08:25,212 [main] INFO ebanking - PaulBurk@gmail.com record exist in table
+2021-12-16 00:08:25,212 [main] INFO ebanking -  record do not exist in table
+2021-12-16 00:08:25,212 [main] INFO ebanking -  record do not exist in table
+2021-12-16 00:08:25,228 [main] INFO ebanking - Admin record exist in table
+2021-12-16 00:08:25,228 [main] INFO ebanking - wwwwww@dwwwww.com record exist in table
+2021-12-16 00:08:25,228 [main] INFO ebanking - 3473479999 record exist in table
+2021-12-16 00:11:15,912 [main] INFO ebanking - 7
+2021-12-16 00:11:16,052 [main] INFO ebanking - Paul record exist in table
+2021-12-16 00:11:16,052 [main] INFO ebanking - Burk record exist in table
+2021-12-16 00:11:16,052 [main] INFO ebanking - PaulBurk@gmail.com record exist in table
+2021-12-16 00:11:16,052 [main] INFO ebanking -  record do not exist in table
+2021-12-16 00:11:16,052 [main] INFO ebanking -  record do not exist in table
+2021-12-16 00:11:16,052 [main] INFO ebanking - Admin record exist in table
+2021-12-16 00:11:16,052 [main] INFO ebanking - wwwwww@dwwwww.com record exist in table
+2021-12-16 00:12:23,212 [main] INFO ebanking - [Paul, Burk, PaulBurk@gmail.com, , , Admin, wwwwww@dwwwww.com]
+2021-12-16 00:12:26,902 [main] INFO ebanking - Paul record exist in table
+2021-12-16 00:12:26,903 [main] INFO ebanking - Burk record exist in table
+2021-12-16 00:12:26,903 [main] INFO ebanking - PaulBurk@gmail.com record exist in table
+2021-12-16 00:12:26,903 [main] INFO ebanking -  record do not exist in table
+2021-12-16 00:12:26,904 [main] INFO ebanking -  record do not exist in table
+2021-12-16 00:12:26,904 [main] INFO ebanking - Admin record exist in table
+2021-12-16 00:12:26,904 [main] INFO ebanking - wwwwww@dwwwww.com record exist in table
+2021-12-16 00:13:43,332 [main] INFO ebanking - [Paul, Burk, PaulBurk@gmail.com, , , Admin, wwwwww@dwwwww.com, 3473479999]
+2021-12-16 00:13:47,589 [main] INFO ebanking - Paul record exist in table
+2021-12-16 00:13:47,589 [main] INFO ebanking - Burk record exist in table
+2021-12-16 00:13:47,589 [main] INFO ebanking - PaulBurk@gmail.com record exist in table
+2021-12-16 00:13:47,590 [main] INFO ebanking -  record do not exist in table
+2021-12-16 00:13:47,590 [main] INFO ebanking -  record do not exist in table
+2021-12-16 00:13:47,590 [main] INFO ebanking - Admin record exist in table
+2021-12-16 00:13:47,591 [main] INFO ebanking - wwwwww@dwwwww.com record exist in table
+2021-12-16 00:13:47,591 [main] INFO ebanking - 3473479999 record exist in table
+2021-12-16 00:14:49,493 [main] INFO ebanking - [Paul, Burk, PaulBurk@gmail.com, , , Admin, wwwwww@dwwwww.com, 3473479999]
+2021-12-16 00:14:53,740 [main] INFO ebanking - Paul record exist in table
+2021-12-16 00:14:53,740 [main] INFO ebanking - Burk record exist in table
+2021-12-16 00:14:53,740 [main] INFO ebanking - PaulBurk@gmail.com record exist in table
+2021-12-16 00:14:53,740 [main] INFO ebanking -  record do not exist in table
+2021-12-16 00:14:53,740 [main] INFO ebanking -  record do not exist in table
+2021-12-16 00:14:53,740 [main] INFO ebanking - Admin record exist in table
+2021-12-16 00:14:53,740 [main] INFO ebanking - wwwwww@dwwwww.com record exist in table
+2021-12-16 00:14:53,740 [main] INFO ebanking - 3473479999 record exist in table
+2021-12-16 00:21:15,215 [main] INFO ebanking - [Paul, Burk, PaulBurk@gmail.com, Admin, wwwwww@dwwwww.com, 3473479999]
+2021-12-16 00:21:19,445 [main] INFO ebanking - Paul record exist in table
+2021-12-16 00:21:19,446 [main] INFO ebanking - Burk record exist in table
+2021-12-16 00:21:19,446 [main] INFO ebanking - PaulBurk@gmail.com record exist in table
+2021-12-16 00:21:19,447 [main] INFO ebanking - Admin record exist in table
+2021-12-16 00:21:19,447 [main] INFO ebanking - wwwwww@dwwwww.com record exist in table
+2021-12-16 00:21:19,448 [main] INFO ebanking - 3473479999 record exist in table
+2021-12-16 00:23:20,013 [main] INFO ebanking - [Parviz, Burk, PaulBurk@gmail.com, Admin, wwwwww@dwwwww.com, 3473479999]
+2021-12-16 00:23:24,232 [main] INFO ebanking - Parviz record do not exist in table
+2021-12-16 00:23:24,233 [main] INFO ebanking - Burk record exist in table
+2021-12-16 00:23:24,233 [main] INFO ebanking - PaulBurk@gmail.com record exist in table
+2021-12-16 00:23:24,233 [main] INFO ebanking - Admin record exist in table
+2021-12-16 00:23:24,233 [main] INFO ebanking - wwwwww@dwwwww.com record exist in table
+2021-12-16 00:23:24,234 [main] INFO ebanking - 3473479999 record exist in table
+2021-12-16 15:35:51,460 [main] INFO ebanking - [Paul, Burk, PaulBurk@gmail.com, Admin, wwwwww@dwwwww.com, 3473479999]
+2021-12-16 15:35:55,709 [main] INFO ebanking - Paul record exist in table
+2021-12-16 15:35:55,709 [main] INFO ebanking - Burk record exist in table
+2021-12-16 15:35:55,709 [main] INFO ebanking - PaulBurk@gmail.com record exist in table
+2021-12-16 15:35:55,710 [main] INFO ebanking - Admin record exist in table
+2021-12-16 15:35:55,710 [main] INFO ebanking - wwwwww@dwwwww.com record exist in table
+2021-12-16 15:35:55,710 [main] INFO ebanking - 3473479999 record exist in table
+2021-12-16 15:37:34,819 [main] INFO ebanking - [Paul, PaulBurk@gmail.com, Admin, wwwwww@dwwwww.com, 3473479999]
+2021-12-16 15:37:39,061 [main] INFO ebanking - Paul record exist in table
+2021-12-16 15:37:39,062 [main] INFO ebanking - PaulBurk@gmail.com record exist in table
+2021-12-16 15:37:39,062 [main] INFO ebanking - Admin record exist in table
+2021-12-16 15:37:39,062 [main] INFO ebanking - wwwwww@dwwwww.com record exist in table
+2021-12-16 15:37:39,063 [main] INFO ebanking - 3473479999 record exist in table
+2021-12-16 15:53:23,046 [main] INFO ebanking - [Paul, Burk, PaulBurk@gmail.com, , , Admin, wwwwww@dwwwww.com, 3473479999]
+2021-12-16 15:53:25,678 [main] INFO ebanking - Paul record exist in table
+2021-12-16 15:53:25,679 [main] INFO ebanking - Burk record exist in table
+2021-12-16 15:53:25,679 [main] INFO ebanking - PaulBurk@gmail.com record exist in table
+2021-12-16 15:53:25,679 [main] INFO ebanking -  record do not exist in table
+2021-12-16 15:53:25,680 [main] INFO ebanking -  record do not exist in table
+2021-12-16 15:53:25,680 [main] INFO ebanking - Admin record exist in table
+2021-12-16 15:53:25,680 [main] INFO ebanking - wwwwww@dwwwww.com record exist in table
+2021-12-16 15:53:25,680 [main] INFO ebanking - 3473479999 record exist in table
+2021-12-16 15:55:48,320 [main] INFO ebanking - [Paul, Burk, PaulBurk@gmail.com, , , Admin, wwwwww@dwwwww.com, 3473479999]
+2021-12-16 15:55:50,956 [main] INFO ebanking - Paul record exist in table
+2021-12-16 15:55:50,956 [main] INFO ebanking - Burk record exist in table
+2021-12-16 15:55:50,956 [main] INFO ebanking - PaulBurk@gmail.com record exist in table
+2021-12-16 15:55:50,957 [main] INFO ebanking -  record exist in table
+2021-12-16 15:55:50,957 [main] INFO ebanking -  record exist in table
+2021-12-16 15:55:50,957 [main] INFO ebanking - Admin record exist in table
+2021-12-16 15:55:50,957 [main] INFO ebanking - wwwwww@dwwwww.com record exist in table
+2021-12-16 15:55:50,958 [main] INFO ebanking - 3473479999 record exist in table
+2021-12-16 15:58:41,009 [main] INFO ebanking - [Paul, Burk, PaulBurk@gmail.com, , , Admin, wwwwww@dwwwww.com, 3473479999]
+2021-12-16 15:58:43,635 [main] INFO ebanking - Paul record exist in table
+2021-12-16 15:58:43,635 [main] INFO ebanking - Burk record exist in table
+2021-12-16 15:58:43,635 [main] INFO ebanking - PaulBurk@gmail.com record exist in table
+2021-12-16 15:58:43,636 [main] INFO ebanking -  record exist in table
+2021-12-16 15:58:43,636 [main] INFO ebanking -  record exist in table
+2021-12-16 15:58:43,636 [main] INFO ebanking - Admin record exist in table
+2021-12-16 15:58:43,636 [main] INFO ebanking - wwwwww@dwwwww.com record exist in table
+2021-12-16 15:58:43,637 [main] INFO ebanking - 3473479999 record exist in table
+2021-12-16 17:37:46,374 [main] INFO ebanking - 7
+2021-12-16 22:17:01,578 [main] INFO ebanking - sale sale sale Sales Team sales@comp.com 777111223 Edit
+2021-12-16 22:19:04,481 [main] INFO ebanking - sale sale sale Sales Team sales@comp.com 777111223 Edit
+2021-12-16 22:21:16,851 [main] INFO ebanking - Test passed
+2021-12-16 22:21:51,335 [main] INFO ebanking - Test failed
+2021-12-16 22:30:26,583 [main] INFO ebanking - Test failed
+2021-12-16 22:37:05,602 [main] INFO ebanking - [Paul, Burk, PaulBurk@gmail.com, , , Admin, wwwwww@dwwwww.com, 3473479999]
+2021-12-16 22:37:08,226 [main] INFO ebanking - Paul record exist in table
+2021-12-16 22:37:08,226 [main] INFO ebanking - Burk record exist in table
+2021-12-16 22:37:08,227 [main] INFO ebanking - PaulBurk@gmail.com record exist in table
+2021-12-16 22:37:08,227 [main] INFO ebanking -  record exist in table
+2021-12-16 22:37:08,227 [main] INFO ebanking -  record exist in table
+2021-12-16 22:37:08,227 [main] INFO ebanking - Admin record exist in table
+2021-12-16 22:37:08,228 [main] INFO ebanking - wwwwww@dwwwww.com record exist in table
+2021-12-16 22:37:08,228 [main] INFO ebanking - 3473479999 record exist in table
+2021-12-16 22:40:00,282 [main] INFO ebanking - [Paul, Burk, PaulBurk@gmail.com, , , Admin, wwwwww@dwwwww.com, 3473479999]
+2021-12-16 22:40:02,934 [main] INFO ebanking - Paul record exist in table
+2021-12-16 22:40:02,935 [main] INFO ebanking - Burk record exist in table
+2021-12-16 22:40:02,935 [main] INFO ebanking - PaulBurk@gmail.com record exist in table
+2021-12-16 22:40:02,935 [main] INFO ebanking -  record exist in table
+2021-12-16 22:40:02,936 [main] INFO ebanking -  record exist in table
+2021-12-16 22:40:02,936 [main] INFO ebanking - Admin record exist in table
+2021-12-16 22:40:02,936 [main] INFO ebanking - wwwwww@dwwwww.com record exist in table
+2021-12-16 22:40:02,937 [main] INFO ebanking - 3473479999 record exist in table
+2021-12-16 22:44:09,460 [main] INFO ebanking - [Paul, Burk, PaulBurk@gmail.com, , , Admin, wwwwww@dwwwww.com, 3473479999]
+2021-12-16 22:44:12,084 [main] INFO ebanking - Paul record exist in table
+2021-12-16 22:44:12,085 [main] INFO ebanking - Burk record exist in table
+2021-12-16 22:44:12,085 [main] INFO ebanking - PaulBurk@gmail.com record exist in table
+2021-12-16 22:44:12,085 [main] INFO ebanking -  record exist in table
+2021-12-16 22:44:12,086 [main] INFO ebanking -  record exist in table
+2021-12-16 22:44:12,086 [main] INFO ebanking - Admin record exist in table
+2021-12-16 22:44:12,086 [main] INFO ebanking - wwwwww@dwwwww.com record exist in table
+2021-12-16 22:44:12,086 [main] INFO ebanking - 3473479999 record exist in table
+2021-12-16 22:45:25,321 [main] INFO ebanking - [[ChromeDriver: chrome on WINDOWS (089421cc44559a6a8bd05d5bf8cbf704)] -> xpath: //tr[contains(@class, 'smart-table-data-row')]]
+2021-12-16 22:45:25,353 [main] INFO ebanking - [[ChromeDriver: chrome on WINDOWS (089421cc44559a6a8bd05d5bf8cbf704)] -> xpath: //tr[contains(@class, 'smart-table-data-row')]]
+2021-12-16 22:45:25,376 [main] INFO ebanking - [[ChromeDriver: chrome on WINDOWS (089421cc44559a6a8bd05d5bf8cbf704)] -> xpath: //tr[contains(@class, 'smart-table-data-row')]]
+2021-12-16 22:45:25,397 [main] INFO ebanking - [[ChromeDriver: chrome on WINDOWS (089421cc44559a6a8bd05d5bf8cbf704)] -> xpath: //tr[contains(@class, 'smart-table-data-row')]]
+2021-12-16 22:45:25,416 [main] INFO ebanking - [[ChromeDriver: chrome on WINDOWS (089421cc44559a6a8bd05d5bf8cbf704)] -> xpath: //tr[contains(@class, 'smart-table-data-row')]]
+2021-12-16 22:45:25,438 [main] INFO ebanking - [[ChromeDriver: chrome on WINDOWS (089421cc44559a6a8bd05d5bf8cbf704)] -> xpath: //tr[contains(@class, 'smart-table-data-row')]]
+2021-12-16 22:45:25,459 [main] INFO ebanking - [[ChromeDriver: chrome on WINDOWS (089421cc44559a6a8bd05d5bf8cbf704)] -> xpath: //tr[contains(@class, 'smart-table-data-row')]]
+2021-12-16 22:45:31,501 [main] INFO ebanking - [Paul, Burk, PaulBurk@gmail.com, , , Admin, wwwwww@dwwwww.com, 3473479999]
+2021-12-16 22:45:34,153 [main] INFO ebanking - Paul record exist in table
+2021-12-16 22:45:34,154 [main] INFO ebanking - Burk record exist in table
+2021-12-16 22:45:34,154 [main] INFO ebanking - PaulBurk@gmail.com record exist in table
+2021-12-16 22:45:34,154 [main] INFO ebanking -  record exist in table
+2021-12-16 22:45:34,154 [main] INFO ebanking -  record exist in table
+2021-12-16 22:45:34,154 [main] INFO ebanking - Admin record exist in table
+2021-12-16 22:45:34,155 [main] INFO ebanking - wwwwww@dwwwww.com record exist in table
+2021-12-16 22:45:34,155 [main] INFO ebanking - 3473479999 record exist in table
+2021-12-16 22:47:40,920 [main] INFO ebanking - [Paul, Burk, PaulBurk@gmail.com, , , Admin, wwwwww@dwwwww.com, 3473479999]
+2021-12-16 22:47:43,562 [main] INFO ebanking - Paul record exist in table
+2021-12-16 22:47:43,563 [main] INFO ebanking - Burk record exist in table
+2021-12-16 22:47:43,563 [main] INFO ebanking - PaulBurk@gmail.com record exist in table
+2021-12-16 22:47:43,563 [main] INFO ebanking -  record exist in table
+2021-12-16 22:47:43,564 [main] INFO ebanking -  record exist in table
+2021-12-16 22:47:43,564 [main] INFO ebanking - Admin record exist in table
+2021-12-16 22:47:43,564 [main] INFO ebanking - wwwwww@dwwwww.com record exist in table
+2021-12-16 22:47:43,564 [main] INFO ebanking - 3473479999 record exist in table
+2021-12-16 22:47:43,628 [main] INFO ebanking - [[ChromeDriver: chrome on WINDOWS (4dcc1e30ced252886bcb7e85ed174a9c)] -> xpath: //tr[contains(@class, 'smart-table-data-row')]]
+2021-12-16 22:47:44,300 [main] INFO ebanking - [[ChromeDriver: chrome on WINDOWS (4dcc1e30ced252886bcb7e85ed174a9c)] -> xpath: //tr[contains(@class, 'smart-table-data-row')]]
+2021-12-16 22:47:44,327 [main] INFO ebanking - [[ChromeDriver: chrome on WINDOWS (4dcc1e30ced252886bcb7e85ed174a9c)] -> xpath: //tr[contains(@class, 'smart-table-data-row')]]
+2021-12-16 22:47:44,349 [main] INFO ebanking - [[ChromeDriver: chrome on WINDOWS (4dcc1e30ced252886bcb7e85ed174a9c)] -> xpath: //tr[contains(@class, 'smart-table-data-row')]]
+2021-12-16 22:47:44,376 [main] INFO ebanking - [[ChromeDriver: chrome on WINDOWS (4dcc1e30ced252886bcb7e85ed174a9c)] -> xpath: //tr[contains(@class, 'smart-table-data-row')]]
+2021-12-16 22:47:44,398 [main] INFO ebanking - [[ChromeDriver: chrome on WINDOWS (4dcc1e30ced252886bcb7e85ed174a9c)] -> xpath: //tr[contains(@class, 'smart-table-data-row')]]
+2021-12-16 22:47:44,420 [main] INFO ebanking - [[ChromeDriver: chrome on WINDOWS (4dcc1e30ced252886bcb7e85ed174a9c)] -> xpath: //tr[contains(@class, 'smart-table-data-row')]]
+2021-12-16 22:47:44,445 [main] INFO ebanking - [[ChromeDriver: chrome on WINDOWS (4dcc1e30ced252886bcb7e85ed174a9c)] -> xpath: //tr[contains(@class, 'smart-table-data-row')]]
+2021-12-16 22:49:27,578 [main] INFO ebanking - [[ChromeDriver: chrome on WINDOWS (087cf8a6b2e01440f6b4940a018613ec)] -> xpath: //tr[contains(@class, 'smart-table-data-row')]]
+2021-12-16 22:49:27,607 [main] INFO ebanking - [[ChromeDriver: chrome on WINDOWS (087cf8a6b2e01440f6b4940a018613ec)] -> xpath: //tr[contains(@class, 'smart-table-data-row')]]
+2021-12-16 22:49:27,635 [main] INFO ebanking - [[ChromeDriver: chrome on WINDOWS (087cf8a6b2e01440f6b4940a018613ec)] -> xpath: //tr[contains(@class, 'smart-table-data-row')]]
+2021-12-16 22:49:27,665 [main] INFO ebanking - [[ChromeDriver: chrome on WINDOWS (087cf8a6b2e01440f6b4940a018613ec)] -> xpath: //tr[contains(@class, 'smart-table-data-row')]]
+2021-12-16 22:49:27,690 [main] INFO ebanking - [[ChromeDriver: chrome on WINDOWS (087cf8a6b2e01440f6b4940a018613ec)] -> xpath: //tr[contains(@class, 'smart-table-data-row')]]
+2021-12-16 22:49:27,716 [main] INFO ebanking - [[ChromeDriver: chrome on WINDOWS (087cf8a6b2e01440f6b4940a018613ec)] -> xpath: //tr[contains(@class, 'smart-table-data-row')]]
+2021-12-16 22:49:27,736 [main] INFO ebanking - [[ChromeDriver: chrome on WINDOWS (087cf8a6b2e01440f6b4940a018613ec)] -> xpath: //tr[contains(@class, 'smart-table-data-row')]]
+2021-12-16 22:52:43,350 [main] INFO ebanking - Test failed
+2021-12-16 22:53:52,976 [main] INFO ebanking - Test failed
+2021-12-16 22:54:56,374 [main] INFO ebanking - Tom Blue matt Company BBB Customer matt@comp.com 111222333 Edit
+2021-12-16 22:54:56,389 [main] INFO ebanking - Test passed
+2021-12-16 22:56:16,758 [main] INFO ebanking - Tom Blue matt Company BBB Customer matt@comp.com 111222333 Edit
+2021-12-16 22:56:17,336 [main] INFO ebanking - Test passed
+2021-12-16 23:09:59,931 [main] INFO ebanking - record deleted
+2021-12-16 23:12:51,166 [main] INFO ebanking - record deleted
+2021-12-16 23:24:47,690 [main] INFO ebanking - record deleted
+2021-12-16 23:25:51,905 [main] INFO ebanking - record deleted
+2021-12-16 23:27:42,255 [main] INFO ebanking - record deleted
+2021-12-16 23:30:52,702 [main] INFO ebanking - record deleted
+2021-12-16 23:30:53,388 [main] INFO ebanking - record deleted
+2021-12-16 23:30:54,051 [main] INFO ebanking - record deleted
+2021-12-16 23:35:23,200 [main] INFO ebanking - [Paul, Burk, PaulBurk@gmail.com, , , Admin, wwwwww@dwwwww.com, 3473479999]
+2021-12-16 23:35:25,797 [main] INFO ebanking - Paul record exist in table
+2021-12-16 23:35:25,797 [main] INFO ebanking - Burk record exist in table
+2021-12-16 23:35:25,797 [main] INFO ebanking - PaulBurk@gmail.com record exist in table
+2021-12-16 23:35:25,797 [main] INFO ebanking -  record exist in table
+2021-12-16 23:35:25,797 [main] INFO ebanking -  record exist in table
+2021-12-16 23:35:25,797 [main] INFO ebanking - Admin record exist in table
+2021-12-16 23:35:25,797 [main] INFO ebanking - wwwwww@dwwwww.com record exist in table
+2021-12-16 23:35:25,797 [main] INFO ebanking - 3473479999 record exist in table
+2021-12-16 23:37:13,810 [main] INFO ebanking - [Paul, Burk, PaulBurk@gmail.com, , , Admin, wwwwww@dwwwww.com, 3473479999]
+2021-12-16 23:37:16,363 [main] INFO ebanking - Paul record exist in table
+2021-12-16 23:37:16,363 [main] INFO ebanking - Burk record exist in table
+2021-12-16 23:37:16,363 [main] INFO ebanking - PaulBurk@gmail.com record exist in table
+2021-12-16 23:37:16,363 [main] INFO ebanking -  record exist in table
+2021-12-16 23:37:16,363 [main] INFO ebanking -  record exist in table
+2021-12-16 23:37:16,363 [main] INFO ebanking - Admin record exist in table
+2021-12-16 23:37:16,363 [main] INFO ebanking - wwwwww@dwwwww.com record exist in table
+2021-12-16 23:37:16,363 [main] INFO ebanking - 3473479999 record exist in table
+2021-12-16 23:37:19,629 [main] INFO ebanking - record deleted
+2021-12-16 23:38:39,914 [main] INFO ebanking - [Paul, Burk, PaulBurk@gmail.com, , , Admin, wwwwww@dwwwww.com, 3473479999]
+2021-12-16 23:38:42,529 [main] INFO ebanking - Paul record exist in table
+2021-12-16 23:38:42,529 [main] INFO ebanking - Burk record exist in table
+2021-12-16 23:38:42,529 [main] INFO ebanking - PaulBurk@gmail.com record exist in table
+2021-12-16 23:38:42,529 [main] INFO ebanking -  record exist in table
+2021-12-16 23:38:42,529 [main] INFO ebanking -  record exist in table
+2021-12-16 23:38:42,529 [main] INFO ebanking - Admin record exist in table
+2021-12-16 23:38:42,529 [main] INFO ebanking - wwwwww@dwwwww.com record exist in table
+2021-12-16 23:38:42,529 [main] INFO ebanking - 3473479999 record exist in table
+2021-12-16 23:38:45,767 [main] INFO ebanking - record deleted
+2021-12-16 23:39:27,351 [main] INFO ebanking - [Paul, Burk, PaulBurk@gmail.com, , , Admin, wwwwww@dwwwww.com, 3473479999]
+2021-12-16 23:39:29,904 [main] INFO ebanking - Paul record exist in table
+2021-12-16 23:39:29,904 [main] INFO ebanking - Burk record exist in table
+2021-12-16 23:39:29,904 [main] INFO ebanking - PaulBurk@gmail.com record exist in table
+2021-12-16 23:39:29,904 [main] INFO ebanking -  record exist in table
+2021-12-16 23:39:29,904 [main] INFO ebanking -  record exist in table
+2021-12-16 23:39:29,904 [main] INFO ebanking - Admin record exist in table
+2021-12-16 23:39:29,904 [main] INFO ebanking - wwwwww@dwwwww.com record exist in table
+2021-12-16 23:39:29,904 [main] INFO ebanking - 3473479999 record exist in table
+2021-12-16 23:39:33,179 [main] INFO ebanking - record deleted
+2021-12-16 23:40:12,953 [main] INFO ebanking - record deleted
+2021-12-16 23:48:21,671 [main] INFO ebanking - record deleted
+2021-12-16 23:51:56,436 [main] INFO ebanking - [Paul, Burk, PaulBurk@gmail.com, , , Admin, wwwwww@dwwwww.com, 3473479999]
+2021-12-16 23:51:58,980 [main] INFO ebanking - Paul record exist in table
+2021-12-16 23:51:58,980 [main] INFO ebanking - Burk record exist in table
+2021-12-16 23:51:58,980 [main] INFO ebanking - PaulBurk@gmail.com record exist in table
+2021-12-16 23:51:58,980 [main] INFO ebanking -  record exist in table
+2021-12-16 23:51:58,980 [main] INFO ebanking -  record exist in table
+2021-12-16 23:51:58,980 [main] INFO ebanking - Admin record exist in table
+2021-12-16 23:51:58,980 [main] INFO ebanking - wwwwww@dwwwww.com record exist in table
+2021-12-16 23:51:58,980 [main] INFO ebanking - 3473479999 record exist in table
+2021-12-16 23:52:02,316 [main] INFO ebanking - record deleted
+2021-12-16 23:52:56,914 [main] INFO ebanking - record deleted
+2021-12-17 00:01:49,364 [main] INFO ebanking - [Paul, Burk, PaulBurk@gmail.com, , , Admin, wwwwww@dwwwww.com, 3473479999]
+2021-12-17 00:01:51,929 [main] INFO ebanking - Paul record exist in table
+2021-12-17 00:01:51,929 [main] INFO ebanking - Burk record exist in table
+2021-12-17 00:01:51,929 [main] INFO ebanking - PaulBurk@gmail.com record exist in table
+2021-12-17 00:01:51,929 [main] INFO ebanking -  record exist in table
+2021-12-17 00:01:51,929 [main] INFO ebanking -  record exist in table
+2021-12-17 00:01:51,929 [main] INFO ebanking - Admin record exist in table
+2021-12-17 00:01:51,929 [main] INFO ebanking - wwwwww@dwwwww.com record exist in table
+2021-12-17 00:01:51,929 [main] INFO ebanking - 3473479999 record exist in table
+2021-12-17 00:01:55,245 [main] INFO ebanking - record deleted
+2021-12-17 07:31:03,346 [main] INFO ebanking - [Paul, Burk, PaulBurk@gmail.com, , , Admin, wwwwww@dwwwww.com, 3473479999]
+2021-12-17 07:31:05,951 [main] INFO ebanking - Paul record exist in table
+2021-12-17 07:31:05,952 [main] INFO ebanking - Burk record exist in table
+2021-12-17 07:31:05,952 [main] INFO ebanking - PaulBurk@gmail.com record exist in table
+2021-12-17 07:31:05,952 [main] INFO ebanking -  record do not exist in table
+2021-12-17 07:31:05,952 [main] INFO ebanking -  record exist in table
+2021-12-17 07:31:05,952 [main] INFO ebanking - Admin record exist in table
+2021-12-17 07:31:05,953 [main] INFO ebanking - wwwwww@dwwwww.com record exist in table
+2021-12-17 07:31:05,953 [main] INFO ebanking - 3473479999 record exist in table
+2021-12-17 07:31:09,202 [main] INFO ebanking - record deleted
+2021-12-17 07:32:04,561 [main] INFO ebanking - [Paul, Burk, PaulBurk@gmail.com, Admin, wwwwww@dwwwww.com, 3473479999]
+2021-12-17 07:32:07,166 [main] INFO ebanking - Paul record exist in table
+2021-12-17 07:32:07,167 [main] INFO ebanking - Burk record exist in table
+2021-12-17 07:32:07,167 [main] INFO ebanking - PaulBurk@gmail.com record exist in table
+2021-12-17 07:32:07,167 [main] INFO ebanking - Admin record do not exist in table
+2021-12-17 07:32:07,168 [main] INFO ebanking - wwwwww@dwwwww.com record do not exist in table
+2021-12-17 07:32:07,168 [main] INFO ebanking - Admin record exist in table
+2021-12-17 07:32:07,168 [main] INFO ebanking - wwwwww@dwwwww.com record exist in table
+2021-12-17 07:32:07,168 [main] INFO ebanking - 3473479999 record exist in table
+2021-12-17 07:32:10,407 [main] INFO ebanking - record deleted
+2021-12-17 07:37:43,619 [main] INFO ebanking - [Paul, Burk, PaulBurk@gmail.com, Admin, wwwwww@dwwwww.com, 3473479999]
+2021-12-17 07:37:46,235 [main] INFO ebanking - Paul record exist in table
+2021-12-17 07:37:46,235 [main] INFO ebanking - Burk record exist in table
+2021-12-17 07:37:46,235 [main] INFO ebanking - PaulBurk@gmail.com record exist in table
+2021-12-17 07:37:46,235 [main] INFO ebanking - wwwwww@dwwwww.com record exist in table
+2021-12-17 07:37:46,235 [main] INFO ebanking - 3473479999 record exist in table
+2021-12-17 07:37:49,469 [main] INFO ebanking - record deleted
+2021-12-17 07:38:45,744 [main] INFO ebanking - [Paul, Burk, PaulBurk@gmail.com, Admin, wwwwww@dwwwww.com, 3473479999]
+2021-12-17 07:38:48,336 [main] INFO ebanking - Paul record exist in table
+2021-12-17 07:38:48,336 [main] INFO ebanking - Burk record exist in table
+2021-12-17 07:38:48,336 [main] INFO ebanking - PaulBurk@gmail.com record exist in table
+2021-12-17 07:38:48,337 [main] INFO ebanking - Admin record exist in table
+2021-12-17 07:38:48,337 [main] INFO ebanking - wwwwww@dwwwww.com record exist in table
+2021-12-17 07:38:48,337 [main] INFO ebanking - 3473479999 record exist in table
+2021-12-17 07:38:51,567 [main] INFO ebanking - record deleted
+2021-12-17 07:39:36,536 [main] INFO ebanking - [Paul, error, PaulBurk@gmail.com, Admin, wwwwww@dwwwww.com, 3473479999]
+2021-12-17 07:39:39,157 [main] INFO ebanking - Paul record exist in table
+2021-12-17 07:39:39,159 [main] INFO ebanking - Burk record do not exist in table
+2021-12-17 07:39:39,159 [main] INFO ebanking - PaulBurk@gmail.com record exist in table
+2021-12-17 07:39:39,159 [main] INFO ebanking - Admin record exist in table
+2021-12-17 07:39:39,159 [main] INFO ebanking - wwwwww@dwwwww.com record exist in table
+2021-12-17 07:39:39,159 [main] INFO ebanking - 3473479999 record exist in table
+2021-12-17 07:39:42,398 [main] INFO ebanking - record deleted

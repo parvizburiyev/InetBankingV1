@@ -2,18 +2,18 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite guice-stage="DEVELOPMENT" name="Failed suite [InetBanking]">
   <listeners>
-    <listener class-name="com.InetBanking.Utilities.Reporting"/>
+    <listener class-name="com.Teladoc.Utilities.Reporting"/>
   </listeners>
   <test thread-count="5" name="Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.InetBanking.TestCases.TC_04_ExpediaLinkCount">
+      <class name="com.Teladoc.TestCases.TC_01_AddValidateUser">
         <methods>
+          <include name="StartSS"/>
           <include name="TearDown"/>
           <include name="SetUp"/>
-          <include name="LinkCountManually"/>
         </methods>
-      </class> <!-- com.InetBanking.TestCases.TC_04_ExpediaLinkCount -->
+      </class> <!-- com.Teladoc.TestCases.TC_01_AddValidateUser -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [InetBanking] -->
