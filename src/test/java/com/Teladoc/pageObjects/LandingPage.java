@@ -77,6 +77,24 @@ public class LandingPage {
 			return rows;
 	}
 	
+	public boolean checkEachCell(String str, String word) {
+
+		String strArray[] = str.split(" ");
+			for(int i = 0; i<3; i++) {
+				if(strArray[i].equalsIgnoreCase(word)) {
+					return false;
+				}
+			}
+		
+			return true;
+		}
+			
+		
+		
+		
+	
+	
+	
 	public  void clickDelete(int row) throws InterruptedException {
 		 Actions a = new Actions(ldriver);
 		 a.moveToElement(ldriver.findElement(By.xpath("(//button[@ng-click='delUser()'])["+row+"]"))).click().build().perform();;

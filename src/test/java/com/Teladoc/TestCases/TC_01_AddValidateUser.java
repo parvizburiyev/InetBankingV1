@@ -30,7 +30,7 @@ public List<String> ActualAcc = Arrays.asList("Paul", "Burk","PaulBurk@gmail.com
 		AddCustomerPage acp = new AddCustomerPage(driver);
 			lp.clickAddUser();
 			acp.setFirstName(acc.get(0));
-			acp.setLastName("error");
+			acp.setLastName(acc.get(1));
 			acp.setUserName(acc.get(2));
 			acp.setPassword(acc.get(3));
 			acp.setCompanyName();
@@ -38,7 +38,7 @@ public List<String> ActualAcc = Arrays.asList("Paul", "Burk","PaulBurk@gmail.com
 			acp.setEmail(acc.get(6));
 			acp.setPhoneNUmber(acc.get(7));
 			acp.clickSubmit();
-			Thread.sleep(2000);
+			Thread.sleep(1000);
 			
 			log.info(lp.VerifyFirstRecord());
 				

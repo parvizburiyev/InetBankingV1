@@ -7,13 +7,13 @@
   <test thread-count="5" name="Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.Teladoc.TestCases.TC_01_AddValidateUser">
+      <class name="com.Teladoc.TestCases.TC_02_DeleteRecord">
         <methods>
-          <include name="StartSS"/>
           <include name="TearDown"/>
+          <include name="DeleteRecord"/>
           <include name="SetUp"/>
         </methods>
-      </class> <!-- com.Teladoc.TestCases.TC_01_AddValidateUser -->
+      </class> <!-- com.Teladoc.TestCases.TC_02_DeleteRecord -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [InetBanking] -->

@@ -11,8 +11,8 @@
     <classes>
 <!--             <class name="com.InetBanking.TestCases.TC_01_ExpediaTest"/> -->
  
-      <class name="com.Teladoc.TestCases.TC_01_AddValidateUser"/> 
-	<!--       <class name="com.Teladoc.TestCases.TC_02_DeleteRecord"/> -->
+        <class name="com.Teladoc.TestCases.TC_01_AddValidateUser"/>  
+	     <!--    <class name="com.Teladoc.TestCases.TC_02_DeleteRecord"/> -->
 
       
     </classes>

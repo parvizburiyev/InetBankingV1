@@ -1191,3 +1191,41 @@
 2021-12-17 07:39:39,159 - ebanking -INFO - wwwwww@dwwwww.com record exist in table
 2021-12-17 07:39:39,159 - ebanking -INFO - 3473479999 record exist in table
 2021-12-17 07:39:42,398 - ebanking -INFO - record deleted
+2022-01-02 10:08:00,543 - teladoc -INFO - [Paul, error, PaulBurk@gmail.com, Admin, wwwwww@dwwwww.com, 3473479999]
+2022-01-02 10:08:03,196 - teladoc -INFO - Paul record exist in table
+2022-01-02 10:08:03,196 - teladoc -INFO - Burk record do not exist in table
+2022-01-02 10:08:03,196 - teladoc -INFO - PaulBurk@gmail.com record exist in table
+2022-01-02 10:08:03,196 - teladoc -INFO - Admin record exist in table
+2022-01-02 10:08:03,196 - teladoc -INFO - wwwwww@dwwwww.com record exist in table
+2022-01-02 10:08:03,196 - teladoc -INFO - 3473479999 record exist in table
+2022-01-02 10:08:06,603 - teladoc -INFO - record deleted
+2022-01-02 10:31:45,138 - teladoc -INFO - record deleted
+2022-01-02 11:21:43,565 - teladoc -INFO - record deleted
+2022-01-02 11:37:06,746 - teladoc -INFO - record deleted
+2022-01-02 11:39:26,249 - teladoc -INFO - record deleted
+2022-01-02 11:39:26,288 - teladoc -INFO - Tom Blue matt Company BBB Customer matt@comp.com 111222333 Edit
+2022-01-02 11:39:26,288 - teladoc -INFO - sale sale sale Sales Team sales@comp.com 777111223 Edit
+2022-01-02 11:39:26,319 - teladoc -INFO - testadmin testadmin testadmin Admin test@test.cz 777888999 Edit
+2022-01-02 11:39:26,335 - teladoc -INFO - admin admin admin Admin admin@comp.com 777888999 Edit
+2022-01-02 11:39:26,351 - teladoc -INFO - test test test Company BBB Customer test@test.cz 789456123 Edit
+2022-01-02 11:39:26,397 - teladoc -INFO - testsale testsale testsale Sales Team testsale@test.cz 789456123 Edit
+2022-01-02 11:47:22,644 - teladoc -INFO - record deleted
+2022-01-02 11:47:22,676 - teladoc -INFO - Tom Blue matt Company BBB Customer matt@comp.com 111222333 Edit
+2022-01-02 11:47:22,691 - teladoc -INFO - sale sale sale Sales Team sales@comp.com 777111223 Edit
+2022-01-02 11:47:22,707 - teladoc -INFO - testadmin testadmin testadmin Admin test@test.cz 777888999 Edit
+2022-01-02 11:47:22,722 - teladoc -INFO - admin admin admin Admin admin@comp.com 777888999 Edit
+2022-01-02 11:47:22,757 - teladoc -INFO - test test test Company BBB Customer test@test.cz 789456123 Edit
+2022-01-02 11:47:22,770 - teladoc -INFO - testsale testsale testsale Sales Team testsale@test.cz 789456123 Edit
+2022-01-03 14:59:14,289 - teladoc -INFO - record deleted
+2022-01-03 15:27:06,775 - teladoc -INFO - record deleted
+2022-01-03 15:28:21,019 - teladoc -INFO - record deleted
+2022-01-03 15:32:55,447 - teladoc -INFO - record deleted
+2022-01-03 16:30:23,470 - teladoc -INFO - record deleted
+2022-01-04 14:59:04,043 - teladoc -INFO - [Paul, Burk, PaulBurk@gmail.com, Admin, wwwwww@dwwwww.com, 3473479999]
+2022-01-04 14:59:06,689 - teladoc -INFO - Paul record exist in table
+2022-01-04 14:59:06,689 - teladoc -INFO - Burk record exist in table
+2022-01-04 14:59:06,690 - teladoc -INFO - PaulBurk@gmail.com record exist in table
+2022-01-04 14:59:06,690 - teladoc -INFO - Admin record exist in table
+2022-01-04 14:59:06,690 - teladoc -INFO - wwwwww@dwwwww.com record exist in table
+2022-01-04 14:59:06,690 - teladoc -INFO - 3473479999 record exist in table
+2022-01-04 14:59:10,005 - teladoc -INFO - record deleted
